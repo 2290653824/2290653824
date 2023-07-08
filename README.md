@@ -30,3 +30,7 @@
 
 ![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=2290653824&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
+
+**我的简历**：[java后端](
+https://other-file-manager.oss-cn-hangzhou.aliyuncs.com/resume/20230627211907_%E9%83%91%E5%89%91_java%E5%90%8E%E7%AB%AF_15397606402.pdf)
+
