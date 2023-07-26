@@ -15,6 +15,7 @@
 <a href="https://twitter.com/zhengjian54536" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-zhengjian54536-blue?style=flat&logo=Twitter"></a>
 <a href="https://github.com/2290653824" target="_blank"><img alt="github" src="https://img.shields.io/badge/github-2290653824-blue?style=flat&logo=github"></a>
 <a href="https://blog.csdn.net/qq_56769991"><img alt="csdn" src="https://img.shields.io/badge/csdn-sword to coding-blue?style=flat&logo=csdn"></a>
+<a href="https://leetcode.cn/u/z-baby-sword/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Z BABY SWORD-blue?style=flat&logo=LeetCode"></a>
 </div></h1>
 
 
