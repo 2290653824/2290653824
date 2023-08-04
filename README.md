@@ -52,8 +52,13 @@
 
 spring的aop实现小demo
 
+- [设计模式](https://github.com/2290653824/desgin-partterns)
+
+设计模式，用java实现的一些设计模式案例。每个设计模式的UML图
 
 - [我的简历](
   https://other-file-manager.oss-cn-hangzhou.aliyuncs.com/resume/20230627211907_%E9%83%91%E5%89%91_java%E5%90%8E%E7%AB%AF_15397606402.pdf)
 
 个人24应届简历
+
+
